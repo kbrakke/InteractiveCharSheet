@@ -1,0 +1,9 @@
+{
+  "studdedLeather" : {
+    "wt" : 5,
+    "ac" : 12,
+    "dexMod" : "full",
+    "sealth" : true,
+    "strReq" : 0
+  }
+}

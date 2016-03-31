@@ -1,0 +1,24 @@
+{
+  "name" : "Elly Joybelle Nottinwick Tannaway Sparkella Zanlin",
+  "race" : "gnome",
+  "classes" : {
+    "rogue" : 6
+  },
+  "background" : "sage",
+  "proficiencies" : ["arcana", "investigation", "deception", "slightOfHand"],
+  "stats" : {
+    "str" : 8,
+    "dex" : 18,
+    "con" : 13,
+    "int" : 16,
+    "wis" : 12,
+    "cha" : 10
+  },
+  "startingClass" : "rogue",
+  "inventory":{
+    "armor" : "studdedLeather",
+    "weapons" : ["rapier", "lightCrossbow", "dagger"],
+    "other" : ["componentPouch", "scholarsPack"],
+    "magicItems" : ["staffOfSwarmingInsects"]
+  }
+}

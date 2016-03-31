@@ -1,0 +1,6 @@
+{
+  "rapier" : {
+    "damage" : "1d8",
+    "properties" : ["one-handed", "finesse", "martial"]
+  }
+}

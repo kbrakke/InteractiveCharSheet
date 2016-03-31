@@ -1,0 +1,16 @@
+{
+  "name" : "Rogue",
+  "hitdie" : 8,
+  "saves" : ["dex", "int"],
+  "abilites" : {
+    "level1" : ["expertise", "theivesCant"],
+    "level2" : ["cunningAction"],
+    "level3" : ["archetype1"],
+    "level4" : ["asi"],
+    "level5" : ["uncannyDodge"],
+    "level6" : ["expertise"]
+  },
+  "proficiencies" : {
+    "tools" : ["theivesTools"]
+  }
+}
