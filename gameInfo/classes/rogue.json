@@ -3,12 +3,19 @@
   "hitdie" : 8,
   "saves" : ["dex", "int"],
   "abilites" : {
-    "level1" : ["expertise", "theivesCant"],
-    "level2" : ["cunningAction"],
-    "level3" : ["archetype1"],
-    "level4" : ["asi"],
-    "level5" : ["uncannyDodge"],
-    "level6" : ["expertise"]
+    "1" : ["expertise", "theivesCant"],
+    "2" : ["cunningAction"],
+    "3" : ["archetype1"],
+    "4" : ["asi"],
+    "5" : ["uncannyDodge"],
+    "6" : ["expertise"],
+    "7" : ["evasion"],
+    "8" : ["asi"],
+    "9" : ["archetype2"],
+    "10" : ["asi"],
+    "11" : ["reliableTallent"],
+    "12" : ["asi"],
+    "13" : ["slipperyMind"]
   },
   "proficiencies" : {
     "tools" : ["theivesTools"]
