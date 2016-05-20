@@ -4,9 +4,6 @@
 require('react');
 require('react-dom');
 
-class HelloComponent extends React.component {
-    
-}
 
 ReactDOM.render(
     <h1>Hello World!</h1>,
