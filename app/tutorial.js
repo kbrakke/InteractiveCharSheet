@@ -8,6 +8,7 @@ var CommentBox = React.createClass({
             url: this.props.url,
             dataType: 'json',
             cache: false,
+            headers: {'Access-Control-Allow-Origin' : true},
             success: function(data) {
                 this.setState({data: data});
             }.bind(this),
